@@ -28,6 +28,7 @@ This space is a list of mobile application that I made for project-based learini
 ## Resources
 This space is a list of resources and articles that I find helpful in learning dart and flutter
 
-1. Flutter Learning Resources in China: https://github.com/crazycodeboy/awesome-flutter-cn
-2. Udemy The Complete Flutter Development Bootcamp with Dart: https://www.udemy.com/course/flutter-bootcamp-with-dart/
-3. Flutter Official Learning Site: https://flutter.dev/learn
+1. Flutter Learning Resources in Github: https://github.com/crazycodeboy/awesome-flutter-cn
+2. Flutter Learing Resources in juejin: https://juejin.cn/post/7116692982077587492
+3. Udemy The Complete Flutter Development Bootcamp with Dart: https://www.udemy.com/course/flutter-bootcamp-with-dart/
+4. Flutter Official Learning Site: https://flutter.dev/learn
