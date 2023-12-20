@@ -29,7 +29,7 @@ This space is a list of resources and articles that I find helpful in learning d
 1. Udemy The Complete Flutter Development Bootcamp with Dart: https://www.udemy.com/course/flutter-bootcamp-with-dart/
 2. Flutter 實戰第二版 [https://github.com/flutterchina/flutter_in_action_2nd](https://book.flutterchina.club/chapter1/)
 
-## Additional Resource
+### Additional Resource
 1. Flutter Learning Resources in Github: https://github.com/crazycodeboy/awesome-flutter-cn
 2. Flutter Learing Resources in juejin: https://juejin.cn/post/7116692982077587492
 3. Flutter Official Learning Site: https://flutter.dev/learn
